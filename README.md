@@ -1,6 +1,7 @@
 # Typst: From Zero to Hero
 
 > The handbook I wish I had when I started learning Typst.
+> 
 > Typst tutorial, Typst handbook, Typst guide, Typst PDF generation, Typst for students, Typst for researchers, Typst programming, Typst templates, Typst thesis, Typst presentation framework.
 
 Typst is probably the most exciting document preparation system created in decades.
